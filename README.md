@@ -1,4 +1,4 @@
-#gft-start-6-logica-de-programacao-desafio-2
+# gft-start-6-logica-de-programacao-desafio-2
 
 ## Introdução
 
@@ -38,27 +38,37 @@ Ao final deve se exibir uma mensagem:
 
 ## Solução Proposta
 
-Com o objetivo de desenvolver o desafio proposto, foram criadas soluções em JavaScript, Python e TypeScript.
+Com o objetivo de desenvolver as soluções para o desafio proposto, fiz uso de três linguagens: JavaScript, Python e TypeScript.
 
 ### JavaScript
 
-Para a solução em JavaScript, foi utilizado o Node.js v20.17.0 para rodar o código. Para executar o código da primeira solução proposta, basta abrir o terminal no diretório `js` e digitar o comando:
+Para a solução em JavaScript, foi utilizado o Node.js v20.17.0 para rodar o código. Para executar o código da primeira solução proposta, basta abrir o terminal no diretório `./js/src` e digitar o comando:
 
 ```bash
-node desafio1.js
+node index.js
 ```
 
 ### Python
 
-Para a solução em Python, foi utilizado o Python 3.12.6. Para executar o código da primeira solução proposta, basta abrir o terminal no diretório `python` e digitar o comando:
+Para a solução em Python, foi utilizado o Python 3.12.6. Para executar o código da primeira solução proposta, basta abrir o terminal no diretório `./python/src` e digitar o comando:
+
+No Windows:
 
 ```bash
-python desafio1.py
+python main.py
+#ou
+py main.py
+```
+
+No Linux:
+
+```bash
+python3 main.py
 ```
 
 ### TypeScript
 
-Para a solução em TypeScript, foi utilizado o Node.js v20.17.0 para rodar o código. Para executar o código da primeira solução proposta, basta abrir o terminal no diretório `ts/dist` e digitar o comando:
+Para a solução em TypeScript, foi utilizado o Node.js v20.17.0 para rodar o código. Para executar o código da primeira solução proposta, basta abrir o terminal no diretório `./ts/dist/src` e digitar o comando:
 
 ```bash
 node index.js
